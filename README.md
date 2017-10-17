@@ -1,4 +1,4 @@
-ynopsis
+# Synopsis
 ---
 This project is designed to evaluate whether or not there a relationship has
 developed between the amount of money a certain major tends to produce post-college and the popularity of a certain major.

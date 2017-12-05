@@ -37,3 +37,9 @@ Step 4: In the upper right-hand corner of the webpage, you should see a bright g
 Step 5: Press the "copy" button, which is illustrated as a clipboard. After pressing the button, you should get a message saying the SSH key has been copied.
 
 Step 6: Return to your terminal. Enter the command "git clone <paste this SSH key you received in Step 5 here>". This should clone the current state of the repository into the folder of your choosing. You should now have access to your own copy of the repository for future use.
+
+#Running the Jupyter Notebook
+
+1. From your computer terminal, change directories until you enter the directory where you stored the copy of the reposistory
+
+2. Once inside the correct directory, type in the command <jupyter notebook Major_Evaluation.ipynb> without the < >. This should activate the kernel required to run the project and open a browser window where the jupyter notebook will appear with the project

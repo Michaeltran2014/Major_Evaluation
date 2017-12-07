@@ -42,4 +42,4 @@ Step 6: Return to your terminal. Enter the command "git clone <paste this SSH ke
 
 1. From your computer terminal, change directories until you enter the directory where you stored the copy of the reposistory
 
-2. Once inside the correct directory, type in the command "<jupyter notebook Major_Evaluation.ipynb>" without the <"">. This should activate the kernel required to run the project and open a browser window where the jupyter notebook will appear with the project
+2. Once inside the correct directory, type in the command <"jupyter notebook Major_Evaluation.ipynb"> without the <" ">. This should activate the kernel required to run the project and open a browser window where the jupyter notebook will appear with the project

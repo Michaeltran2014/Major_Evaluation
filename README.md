@@ -38,8 +38,17 @@ Step 5: Press the "copy" button, which is illustrated as a clipboard. After pres
 
 Step 6: Return to your terminal. Enter the command "git clone <paste this SSH key you received in Step 5 here>". This should clone the current state of the repository into the folder of your choosing. You should now have access to your own copy of the repository for future use.
 
+##Installing the necessary packages
+---
+
+This project uses packages that are not pre-installed in the standard python installation. Do not worry though! One quick instruction is all we need to install the packages.
+
+Step 1: Make sure you are in the directory containing the project (should be the same directory that you cloned into your system).
+
+Step 2: Run the instruction <"pip install requirements.txt"> without the <"">. This will begin installing the packages that are listed in requirements.txt (which are all the packages that we need to run the project!). Once the installation is done, we should have all that we need to run our project.
+
 # Running the Jupyter Notebook
+---
+Step 1. From your computer terminal, change directories until you enter the directory where you stored the copy of the repository.
 
-Step 1. From your computer terminal, change directories until you enter the directory where you stored the copy of the reposistory
-
-Step 2. Once inside the correct directory, type in the command <"jupyter notebook Major_Evaluation.ipynb"> without the <" ">. This should activate the kernel required to run the project and open a browser window where the jupyter notebook will appear with the project
+Step 2. Once inside the correct directory, type in the command <"jupyter notebook Major_Evaluation.ipynb"> without the <" ">. This should activate the kernel required to run the project and open a browser window where the jupyter notebook will appear with the project.

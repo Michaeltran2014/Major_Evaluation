@@ -38,7 +38,7 @@ Step 5: Press the "copy" button, which is illustrated as a clipboard. After pres
 
 Step 6: Return to your terminal. Enter the command "git clone <paste this SSH key you received in Step 5 here>". This should clone the current state of the repository into the folder of your choosing. You should now have access to your own copy of the repository for future use.
 
-##Installing the necessary packages
+## Installing the necessary packages
 ---
 
 This project uses packages that are not pre-installed in the standard python installation. Do not worry though! One quick instruction is all we need to install the packages.

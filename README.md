@@ -52,3 +52,5 @@ Step 2: Run the instruction <"pip install requirements.txt"> without the <"">. T
 Step 1. From your computer terminal, change directories until you enter the directory where you stored the copy of the repository.
 
 Step 2. Once inside the correct directory, type in the command <"jupyter notebook Major_Evaluation.ipynb"> without the <" ">. This should activate the kernel required to run the project and open a browser window where the jupyter notebook will appear with the project.
+
+Step 3. The jupyter notebook should now be open on your screen, ready for interaction. In order to have a fresh run of the notebook, click on the "Cell" tab, and then the "Run All" button that will be inside of the resulting drop down menu from "Cell". The notebook should now run all cells. The notebook should now be in a state where you can view the contents in an updated state.
